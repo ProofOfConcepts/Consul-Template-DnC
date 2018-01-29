@@ -1,0 +1,12 @@
+/Users/pradeepsingh/Documents/ProofOfConceptsGit/Consul-Template-DnC/MessageApp/bin/Debug/netcoreapp2.0/MessageApp.deps.json
+/Users/pradeepsingh/Documents/ProofOfConceptsGit/Consul-Template-DnC/MessageApp/bin/Debug/netcoreapp2.0/MessageApp.runtimeconfig.json
+/Users/pradeepsingh/Documents/ProofOfConceptsGit/Consul-Template-DnC/MessageApp/bin/Debug/netcoreapp2.0/MessageApp.runtimeconfig.dev.json
+/Users/pradeepsingh/Documents/ProofOfConceptsGit/Consul-Template-DnC/MessageApp/bin/Debug/netcoreapp2.0/MessageApp.dll
+/Users/pradeepsingh/Documents/ProofOfConceptsGit/Consul-Template-DnC/MessageApp/bin/Debug/netcoreapp2.0/MessageApp.pdb
+/Users/pradeepsingh/Documents/ProofOfConceptsGit/Consul-Template-DnC/MessageApp/obj/Debug/netcoreapp2.0/MessageApp.csproj.CoreCompileInputs.cache
+/Users/pradeepsingh/Documents/ProofOfConceptsGit/Consul-Template-DnC/MessageApp/obj/Debug/netcoreapp2.0/MessageApp.AssemblyInfoInputs.cache
+/Users/pradeepsingh/Documents/ProofOfConceptsGit/Consul-Template-DnC/MessageApp/obj/Debug/netcoreapp2.0/MessageApp.AssemblyInfo.cs
+/Users/pradeepsingh/Documents/ProofOfConceptsGit/Consul-Template-DnC/MessageApp/obj/Debug/netcoreapp2.0/MessageApp.dll
+/Users/pradeepsingh/Documents/ProofOfConceptsGit/Consul-Template-DnC/MessageApp/obj/Debug/netcoreapp2.0/MessageApp.pdb
+/Users/pradeepsingh/Documents/ProofOfConceptsGit/Consul-Template-DnC/MessageApp/bin/Debug/netcoreapp2.0/messageconfig.json
+/Users/pradeepsingh/Documents/ProofOfConceptsGit/Consul-Template-DnC/MessageApp/obj/Debug/netcoreapp2.0/MessageApp.csprojResolveAssemblyReference.cache

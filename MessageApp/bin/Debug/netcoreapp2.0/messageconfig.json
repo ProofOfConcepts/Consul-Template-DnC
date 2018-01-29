@@ -1,0 +1,5 @@
+{
+	"WelcomeMessage": "Welcome!",
+	"BodyMessage": "This is a simple demo for using consul-template with Asp.NET Core",
+	"ByeMessage": "Hello!"
+}
