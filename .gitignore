@@ -1,0 +1,7 @@
+.DS_Store
+MessageApp/.DS_Store
+MessageApp/bin/.DS_Store
+MessageApp/bin/Debug/.DS_Store
+MessageApp/obj/MessageApp.csproj.nuget.cache
+MessageApp/obj/MessageApp.csproj.nuget.g.props
+MessageApp/obj/MessageApp.csproj.nuget.g.targets
